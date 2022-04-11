@@ -2,7 +2,7 @@
 
 I'm an enthusiast in seeking solutions through technology, <br/> I recently discovered this passion and I am looking to develop myself. 🚀🚀🚀
 
-📚 **Skills:** HTML, CSS, JavaScript & UX/UI Design.
+📚 **Skills:** HTML, CSS, JavaScript, React, Typescript & UX/UI Design.
 
 🧰 **Tools:** VSCode, Figma, Git & GitHub.
 
