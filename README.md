@@ -1,8 +1,10 @@
 ## Hi, I'm Eudes Rodrigues 👋
 
-I'm an enthusiast in seeking solutions through technology, <br/> I recently discovered this passion and I am looking to develop myself. 🚀🚀🚀
+I'm an enthusiast in seeking solutions through technology, <br/> I discovered this passion and now I am always looking to develop myself. 🚀🚀🚀
 
-📚 **Skills:** HTML, CSS, JavaScript, React, Typescript & UX/UI Design.
+🌌 **Skills:** HTML, CSS, JavaScript, React, Typescript & UX/UI Design.
+
+📚 **Learning** C#/.Net.
 
 🧰 **Tools:** VSCode, Figma, Git & GitHub.
 
@@ -18,6 +20,7 @@ I'm an enthusiast in seeking solutions through technology, <br/> I recently disc
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
   ##
