@@ -1,10 +1,10 @@
 ## Hi, I'm Eudes Rodrigues 👋
 
-I'm an enthusiast in seeking solutions through technology, <br/> I discovered this passion and now I am always looking to develop myself. 🚀🚀🚀
+I'm an enthusiast in seeking solutions through technology!!! 🤖 <br/> I discovered this passion and now I am always looking to develop myself. 🚀🚀🚀
 
 🌌 **Skills:** HTML, CSS, JavaScript, React, Typescript & UX/UI Design.
 
-📚 **Learning** C#/.Net.
+📚 **Learning:** C#/.Net.
 
 🧰 **Tools:** VSCode, Figma, Git & GitHub.
 
